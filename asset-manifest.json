@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emreact/static/css/main.45456ffe.chunk.css",
+    "main.js": "/emreact/static/js/main.790d71de.chunk.js",
+    "main.js.map": "/emreact/static/js/main.790d71de.chunk.js.map",
+    "runtime-main.js": "/emreact/static/js/runtime-main.8e3a8d93.js",
+    "runtime-main.js.map": "/emreact/static/js/runtime-main.8e3a8d93.js.map",
+    "static/js/2.5e7fd6e0.chunk.js": "/emreact/static/js/2.5e7fd6e0.chunk.js",
+    "static/js/2.5e7fd6e0.chunk.js.map": "/emreact/static/js/2.5e7fd6e0.chunk.js.map",
+    "static/js/3.6bce8250.chunk.js": "/emreact/static/js/3.6bce8250.chunk.js",
+    "static/js/3.6bce8250.chunk.js.map": "/emreact/static/js/3.6bce8250.chunk.js.map",
+    "index.html": "/emreact/index.html",
+    "static/css/main.45456ffe.chunk.css.map": "/emreact/static/css/main.45456ffe.chunk.css.map",
+    "static/js/2.5e7fd6e0.chunk.js.LICENSE.txt": "/emreact/static/js/2.5e7fd6e0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/emreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e3a8d93.js",
+    "static/js/2.5e7fd6e0.chunk.js",
+    "static/css/main.45456ffe.chunk.css",
+    "static/js/main.790d71de.chunk.js"
+  ]
+}
